@@ -8,11 +8,20 @@
 * Tools: Git, Github, Adobe XD, Adobe Premiere Pro, Adobe Photoshop
 
 **Working Experience**
-*  (Aug 2019 - Aug 2020) - As Academic Coach at CourseNet Indonesia\
+*  (Aug 2019 - Aug 2020) - As IT Instructor (Academic Coach) at CourseNet Indonesia\
   Teaching Teaching Algorithm and Programming\
   Teaching Data Structures
   
-  
+  **Organizational Experience**
+ * (2018-2019) - As Activist at Bina Nusantara Computer Club (BNCC)\
+   (2019) - Committee of BNCC Idea Competition with Tiket.com as Event Staff and Liaison Officer of Tiket.com\
+   (2019) - Committee of BNCC Hackathon 2019 with Tiket.com as Event Staff\
+   (2018) - Committee of BNCC Techno Career as Publication and Documentation
+   
+   **Scholarship**
+ * Bina Nusantara Student Mentor Scholarship Even Period 2019/2020
+ 
+ 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ArdiDramilio)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ardi-dramilio-8365ab178//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ardidramilio/)  
 

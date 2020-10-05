@@ -13,8 +13,8 @@
   Teaching Data Structures
   
 **Organizational Experience**
-* (2019-2020) - As Freshmen Leader and Freshmen Partner at Bina Nusantara University
-* (2018-2019) - As Activist at Bina Nusantara Computer Club (BNCC)\
+* (Aug 2019 - Aug 2020) - As Freshmen Leader and Freshmen Partner at Bina Nusantara University
+* (Aug 2018 - Aug 2019) - As Activist at Bina Nusantara Computer Club (BNCC)\
    (2019) - Committee of BNCC Idea Competition with Tiket.com as Event Staff and Liaison Officer of Tiket.com\
    (2019) - Committee of BNCC Hackathon 2019 with Tiket.com as Event Staff\
    (2018) - Committee of BNCC Techno Career as Publication and Documentation
